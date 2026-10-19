@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
+## Array
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
