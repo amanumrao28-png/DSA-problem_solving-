@@ -10,6 +10,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "DSA3B - DSA3B": {
+        "category": "star1",
+        "date": "2026-10-19T13:59:20.218Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "EXPNS - EXPNS": {
         "category": "star1",
         "date": "2026-10-19T13:34:23.904Z",
@@ -28,18 +37,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "DSA3B - DSA3B": {
+      "VISA09 - VISA09": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-19T13:59:20.218Z"
+        "date": "2026-10-19T14:09:46.800Z"
       }
     },
-    "solved": 4,
-    "star1": 4,
+    "solved": 5,
+    "star1": 5,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
