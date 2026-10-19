@@ -1,6 +1,15 @@
 {
   "codechef": {
     "shas": {
+      "CGOOE - CGOOE": {
+        "category": "star1",
+        "date": "2026-10-19T13:41:57.572Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "EXPNS - EXPNS": {
         "category": "star1",
         "date": "2026-10-19T13:34:23.904Z",
@@ -19,18 +28,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "CGOOE - CGOOE": {
+      "DSA3B - DSA3B": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-19T13:41:57.572Z"
+        "date": "2026-10-19T13:59:20.218Z"
       }
     },
-    "solved": 3,
-    "star1": 3,
+    "solved": 4,
+    "star1": 4,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
