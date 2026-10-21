@@ -37,6 +37,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "EXSHAKE - EXSHAKE": {
+        "category": "star1",
+        "date": "2026-10-21T14:41:35.967Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "UNIQUE2 - UNIQUE2": {
         "category": "star1",
         "date": "2026-10-19T13:34:47.418Z",
@@ -55,18 +64,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "EXSHAKE - EXSHAKE": {
+      "EXQUIZ - EXQUIZ": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-21T14:41:35.967Z"
+        "date": "2026-10-21T14:43:08.134Z"
       }
     },
-    "solved": 7,
-    "star1": 7,
+    "solved": 8,
+    "star1": 8,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
