@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2548-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2548-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
