@@ -64,6 +64,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "GOALS - GOALS": {
+        "category": "star1",
+        "date": "2026-10-26T14:41:12.773Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "UNIQUE2 - UNIQUE2": {
         "category": "star1",
         "date": "2026-10-19T13:34:47.418Z",
@@ -82,18 +91,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "GOALS - GOALS": {
+      "MINFLIPS - MINFLIPS": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-26T14:41:12.773Z"
+        "date": "2026-10-26T14:43:25.717Z"
       }
     },
-    "solved": 10,
-    "star1": 10,
+    "solved": 11,
+    "star1": 11,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
