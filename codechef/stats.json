@@ -28,6 +28,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "EXKEYPAD - EXKEYPAD": {
+        "category": "star1",
+        "date": "2026-10-21T14:48:58.376Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "EXPNS - EXPNS": {
         "category": "star1",
         "date": "2026-10-19T13:34:23.904Z",
@@ -73,18 +82,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "EXKEYPAD - EXKEYPAD": {
+      "GOALS - GOALS": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-21T14:48:58.376Z"
+        "date": "2026-10-26T14:41:12.773Z"
       }
     },
-    "solved": 9,
-    "star1": 9,
+    "solved": 10,
+    "star1": 10,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
