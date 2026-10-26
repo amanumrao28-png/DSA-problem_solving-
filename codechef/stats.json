@@ -73,6 +73,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "MINFLIPS - MINFLIPS": {
+        "category": "star1",
+        "date": "2026-10-26T14:43:25.717Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "UNIQUE2 - UNIQUE2": {
         "category": "star1",
         "date": "2026-10-19T13:34:47.418Z",
@@ -91,18 +100,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "MINFLIPS - MINFLIPS": {
+      "BACVA - BACVA": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-26T14:43:25.717Z"
+        "date": "2026-10-26T14:50:39.098Z"
       }
     },
-    "solved": 11,
-    "star1": 11,
+    "solved": 12,
+    "star1": 12,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
