@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
