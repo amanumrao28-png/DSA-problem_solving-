@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Bit Manipulation
 |  |
 | ------- |
