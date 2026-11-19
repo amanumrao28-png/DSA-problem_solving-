@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0056-merge-intervals) |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0056-merge-intervals) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3034-points-that-intersect-with-cars) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0056-merge-intervals) |
 <!---LeetCode Topics End-->
