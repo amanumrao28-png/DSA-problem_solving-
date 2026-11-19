@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0057-insert-interval) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
