@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 ## Prefix Sum
 |  |
 | ------- |
