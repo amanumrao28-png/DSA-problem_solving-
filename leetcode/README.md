@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0057-insert-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
+| [0605-can-place-flowers](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0605-can-place-flowers) |
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2548-destroy-sequential-targets) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0605-can-place-flowers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 ## Prefix Sum
