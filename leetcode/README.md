@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3034-points-that-intersect-with-cars) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4116-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
