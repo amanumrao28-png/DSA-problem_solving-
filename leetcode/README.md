@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0605-can-place-flowers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3034-points-that-intersect-with-cars) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Quicksort
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Depth-First Search
 |  |
