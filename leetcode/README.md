@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0605-can-place-flowers) |
+| [1046-max-consecutive-ones-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3034-points-that-intersect-with-cars) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
