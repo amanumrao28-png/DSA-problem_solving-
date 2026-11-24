@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2548-destroy-sequential-targets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
 ## Greedy
