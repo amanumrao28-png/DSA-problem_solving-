@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 ## Binary Search
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1396-count-servers-that-communicate) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2631-sort-the-students-by-their-kth-score) |
 ## Stack
 |  |
 | ------- |
