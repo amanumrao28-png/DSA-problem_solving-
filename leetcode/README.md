@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0057-insert-interval) |
+| [0435-non-overlapping-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0605-can-place-flowers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0435-non-overlapping-intervals) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
@@ -110,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0435-non-overlapping-intervals) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0605-can-place-flowers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
