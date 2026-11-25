@@ -91,6 +91,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "PAWNRUSH - PAWNRUSH": {
+        "category": "star1",
+        "date": "2026-11-25T15:05:02.470Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "UNIQUE2 - UNIQUE2": {
         "category": "star1",
         "date": "2026-10-19T13:34:47.418Z",
@@ -109,18 +118,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "PAWNRUSH - PAWNRUSH": {
+      "EXACTKMOVES - EXACTKMOVES": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-25T15:05:02.470Z"
+        "date": "2026-11-25T15:06:46.250Z"
       }
     },
-    "solved": 13,
-    "star1": 13,
+    "solved": 14,
+    "star1": 14,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
