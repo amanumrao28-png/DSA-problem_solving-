@@ -28,6 +28,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "DBLDROP - DBLDROP": {
+        "category": "star1",
+        "date": "2026-11-25T15:11:54.229Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "DSA3B - DSA3B": {
         "category": "star1",
         "date": "2026-10-19T13:59:20.218Z",
@@ -127,18 +136,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "DBLDROP - DBLDROP": {
+      "ROYALTOUR - ROYALTOUR": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-25T15:11:54.229Z"
+        "date": "2026-11-25T15:24:21.707Z"
       }
     },
-    "solved": 15,
-    "star1": 15,
+    "solved": 16,
+    "star1": 16,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
