@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1525-queries-on-a-permutation-with-key) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
@@ -161,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1525-queries-on-a-permutation-with-key) |
+## Simulation
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1525-queries-on-a-permutation-with-key) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1525-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
