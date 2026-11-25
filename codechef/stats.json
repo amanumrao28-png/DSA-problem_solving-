@@ -37,6 +37,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "EXACTKMOVES - EXACTKMOVES": {
+        "category": "star1",
+        "date": "2026-11-25T15:06:46.250Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "EXKEYPAD - EXKEYPAD": {
         "category": "star1",
         "date": "2026-10-21T14:48:58.376Z",
@@ -118,18 +127,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "EXACTKMOVES - EXACTKMOVES": {
+      "DBLDROP - DBLDROP": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-25T15:06:46.250Z"
+        "date": "2026-11-25T15:11:54.229Z"
       }
     },
-    "solved": 14,
-    "star1": 14,
+    "solved": 15,
+    "star1": 15,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
