@@ -1,6 +1,15 @@
 {
   "codechef": {
     "shas": {
+      "BACVA - BACVA": {
+        "category": "star1",
+        "date": "2026-10-26T14:50:39.098Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "BETWEEN - BETWEEN": {
         "category": "star1",
         "date": "2026-10-21T14:39:16.522Z",
@@ -100,18 +109,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "BACVA - BACVA": {
+      "PAWNRUSH - PAWNRUSH": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-26T14:50:39.098Z"
+        "date": "2026-11-25T15:05:02.470Z"
       }
     },
-    "solved": 12,
-    "star1": 12,
+    "solved": 13,
+    "star1": 13,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
