@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/0453-minimum-moves-to-equal-array-elements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1370-count-number-of-nice-subarrays) |
+| [3625-stone-removal-game](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3625-stone-removal-game) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4280-count-digit-appearances](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4280-count-digit-appearances) |
 ## Depth-First Search
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/1525-queries-on-a-permutation-with-key) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3625-stone-removal-game](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3625-stone-removal-game) |
 ## Sqrt Decomposition
 |  |
 | ------- |
