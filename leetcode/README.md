@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3034-points-that-intersect-with-cars) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-check-distances-between-same-letters](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2547-odd-string-difference) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
 | ------- |
