@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3034-points-that-intersect-with-cars) |
+| [4008-restore-finishing-order](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4008-restore-finishing-order) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/2856-count-complete-subarrays-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3034-points-that-intersect-with-cars) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [4008-restore-finishing-order](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4008-restore-finishing-order) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4280-count-digit-appearances](https://github.com/amanumrao28-png/DSA-problem_solving-/tree/master/LeetCode/4280-count-digit-appearances) |
 ## Enumeration
